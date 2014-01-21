@@ -1,0 +1,38 @@
+/*
+ * Copyright (c) 2006-2011 Генератор CSS для иконок ../utils/generate_icons_css.php & "Линия 24" http://www.line24.ru
+ * Здесь может быть ваша реклама. Сделано на Macintosh.
+ */
+
+a.icon {
+    /*line-height: 16px;*/
+    height: 18px;
+    width: 18px;
+}
+}
+a.icon_phones { background: url(images/icons/phones.png) 2px 70% no-repeat; }
+a.icon_calls { background: url(images/icons/blackberry_white.png) 2px 70% no-repeat; }
+a.icon_queues { background: url(images/icons/timeline.png) 2px 70% no-repeat; }
+a.icon_user { background: url(images/icons/premium_support.png) 2px 70% no-repeat; }
+a.icon_reports { background: url(images/icons/database_table.png) 2px 70% no-repeat; }
+a.icon_stats { background: url(images/icons/chart_up_color.png) 2px 70% no-repeat; }
+a.icon_charts { background: url(images/icons/chart_bar.png) 2px 70% no-repeat; }
+a.icon_logout { background: url(images/icons/door_in.png) 2px 70% no-repeat; }
+a.icon_excel { background: url(images/icons/page_white_excel.png) 2px 70% no-repeat; }
+a.icon_add { background: url(images/icons/add.png) 1px 30% no-repeat; }
+a.icon_monitor { background: url(images/icons/monitor_lightning.png) 2px 70% no-repeat; }
+a.icon_upload { background: url(images/icons/database_add.png) 2px 70% no-repeat; }
+a.icon_edit { background: url(images/icons/application_edit.png) 2px 70% no-repeat; }
+a.icon_delete { background: url(images/icons/delete.png) 2px 70% no-repeat; }
+a.icon_check { background: url(images/icons/tick.png) 2px 70% no-repeat; }
+a.icon_play { background: url(images/icons/music.png) 2px 70% no-repeat; }
+a.icon_tasks { background: url(images/icons/sheduled_task.png) 2px 70% no-repeat; }
+a.icon_settings { background: url(images/icons/cog_edit.png) 2px 70% no-repeat; }
+a.icon_pdf { background: url(images/icons/page_white_acrobat.png) 2px 70% no-repeat; }
+a.icon_comment { background: url(images/icons/comment.png) 2px 70% no-repeat; }
+a.icon_add_comment { background: url(images/icons/comment_add.png) 2px 70% no-repeat; }
+a.icon_card { background: url(images/icons/vcard.png) 2px 70% no-repeat; }
+a.icon_history { background: url(images/icons/calendar.png) 2px 70% no-repeat; }
+a.icon_ext_link { background: url(images/icons/application_link.png) 2px 70% no-repeat; }
+a.icon_clients { background: url(images/icons/group.png) 2px 70% no-repeat; }
+a.icon_copy { background: url(images/icons/page_copy.png) 2px 70% no-repeat; }
+a.icon_schedule { background: url(images/icons/time.png) 2px 70% no-repeat; }
